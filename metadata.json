@@ -1,0 +1,5 @@
+{
+  "name": "Sifah Inventory Management System",
+  "description": "A comprehensive inventory management application to add, issue, and return product stock. It tracks items by SKU, name (Arabic/English), category, price, and location within warehouses.",
+  "requestFramePermissions": []
+}
